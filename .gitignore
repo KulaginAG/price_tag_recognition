@@ -3,6 +3,6 @@
 out
 gen
 venv
-images
+IMG*
 recognized.txt
 /scripts/recognized.txt
